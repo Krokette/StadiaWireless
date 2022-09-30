@@ -2,6 +2,8 @@
 
 Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game.
 
+Reddit comment source https://www.reddit.com/r/Stadia/comments/xrc9im/now_that_stadia_is_being_shut_down_can_google/iqe47kj/ 
+
 ## How to use Stadia Wireless
 ![image](https://j.gifs.com/28oNLW.gif)
 
